@@ -1,4 +1,4 @@
-package com.app.addressbookapp.model;
+package com.addressbook.AddressBookApp.model;
 
 public class Contact {
 
